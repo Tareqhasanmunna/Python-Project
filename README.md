@@ -42,13 +42,41 @@ This project is a simple yet effective spam email detector built using Python. I
     python gui.py
     ```
 
-4. **Or explore via Jupyter**
-    ```bash
-    colab notebook spam_detector.ipynb
-    ```
-
 ---
 
 ## 📁 Project Structure
 
+
+---
+
+## 📸 Screenshots
+
+
+### 🖥️ GUI Preview
+![GUI Screenshot](efef/gui.png)
+
+### ✅ Detection Result
+![Result Screenshot](dff/result.png)
+
+---
+
+## 📌 Notes
+
+- Your dataset should have two columns: `label` and `text`
+- Labels must be in `spam` / `ham` format for best results
+- Model accuracy may vary depending on dataset quality
+
+---
+
+## 🧑‍💻 Author
+
+**Tareq Hasan**  
+📧 tareqprofessional@gmail.com  
+🌐 https://bd.linkedin.com/in/tareq-hasan-602b8932b
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for educational purposes.
 
