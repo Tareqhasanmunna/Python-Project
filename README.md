@@ -53,10 +53,7 @@ This project is a simple yet effective spam email detector built using Python. I
 
 
 ### 🖥️ GUI Preview
-![GUI Screenshot](efef/gui.png)
-
-### ✅ Detection Result
-![Result Screenshot](dff/result.png)
+![GUI Screenshot](https://github.com/Tareqhasanmunna/Python-Project/blob/main/spam%20email%20detection%20gui.png)
 
 ---
 
