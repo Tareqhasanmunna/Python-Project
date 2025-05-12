@@ -46,6 +46,30 @@ This project is a simple yet effective spam email detector built using Python. I
 
 ## 📁 Project Structure
 
+📁 Dataset
+   │
+   ▼
+🧹 Preprocessing
+   - Clean text
+   - Remove stopwords
+   - Convert to lowercase
+   - Vectorize (CountVectorizer / TF-IDF)
+   │
+   ▼
+🤖 Model Training
+   - Naive Bayes classifier
+   - Fit on training data
+   │
+   ▼
+🧪 Model Testing
+   - Evaluate with test data
+   - Accuracy, precision, recall
+   │
+   ▼
+📤 Output
+   - Predict spam or ham
+   - GUI displays the result
+
 
 ---
 
@@ -61,7 +85,7 @@ This project is a simple yet effective spam email detector built using Python. I
 
 - Your dataset should have two columns: `label` and `text`
 - Labels must be in `spam` / `ham` format for best results
-- Model accuracy may vary depending on dataset quality
+- Model accuracy may vary depending on the dataset quality
 
 ---
 
