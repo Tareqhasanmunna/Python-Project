@@ -28,8 +28,9 @@ This project is a simple yet effective spam email detector built using Python. I
 
 1. **Clone the repo**
     ```bash
-    git clone https://github.com/yourusername/spam-detector.git
-    cd spam-detector
+    git clone https://github.com/Tareqhasanmunna/Spam-Email-Detection-Project-using-ML
+    cd cd Spam-Email-Detection-Project-using-ML
+
     ```
 
 2. **Install dependencies**
